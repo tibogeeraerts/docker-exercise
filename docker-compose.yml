@@ -1,6 +1,6 @@
 version: "3.9"
 services:
  randomizer-service:
-  image: tibogeeraerts/docker-exercise
+  image: geeraertstibo/docker-exercise
   ports:
     - "8000:8000"
